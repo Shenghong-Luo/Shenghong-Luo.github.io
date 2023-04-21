@@ -19,7 +19,7 @@ Zino Li is now a computer science undergraduate student who is currently working
 * Multimodal
 
 ## Selected Journal Publications
-Xuhang Chen*, **Zinuo Li***, Chi-Man Pun and Shuqiang Wang. A Large-scale Film Style Dataset for Learning Multi-frequency Driven Film Enhancement. IJCAI 2023 accepted.
+Xuhang Chen\*, **Zinuo Li\***, Chi-Man Pun and Shuqiang Wang. A Large-scale Film Style Dataset for Learning Multi-frequency Driven Film Enhancement. IJCAI 2023 accepted.
 
 
 ## For more information
