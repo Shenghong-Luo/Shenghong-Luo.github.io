@@ -36,4 +36,4 @@ Xuhang Chen\*, **Zinuo Li\***, Chi-Man Pun and Shuqiang Wang. A Large-scale Film
 **Zinuo Li\***, Xiaodong Cun\*, Xuhang Chen, Chi-Man Pun. High-resolution Document Shadow Removal via A Large-scale Real-world Dataset and A Frequency-aware Shadow Erasing Net. **ICCV23 in submission[C], CCF-A**
 
 ## For more information
-More information about Zinuo Li please find in [CV](https://github.com/zinuoli/zinuoli.github.io/blob/main/files/CV-Zinuo.pdf).
+More information about Zinuo Li please find in [CV](https://zinuoli.github.io/files/CV-Zinuo.pdf).
