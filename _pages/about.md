@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 ## Education
-* Huizhou University. **Bachelor's degree of Computer Science.**
+* Huizhou University. **BEng of Computer Science.**
 * University of Macau. **Research Assistant.**
 * Chinese Academy of Sciences, ShenZhen. **Research Assistant.**
 
