@@ -7,6 +7,10 @@ redirect_from:
   - /about/
   - /about.html
 ---
+## Education
+* Huizhou University. **Bachelor's degree of Computer Science.**
+* University of Macau. **Research Assistant.**
+* Chinese Academy of Sciences, ShenZhen. **Research Assistant.**
 
 ## Introduction
 Zino Li is now a computer science undergraduate student who is currently working as a research assistant at the University of Macau and the Chinese Academy of Sciences. Meanwhile, he is currently looking for Mphil and PhD opportunities in Comupter Vision/AI Generated Content/Multimodal.
