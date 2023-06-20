@@ -24,7 +24,7 @@ Zino Li is now a computer science undergraduate student who is currently working
 
 
 ## * Published and Accepeted Papers
-Xuhang Chen\*, **Zinuo Li\***, Chi-Man Pun and Shuqiang Wang. A Large-scale Film Style Dataset for Learning Multi-frequency Driven Film Enhancement. **IJCAI 2023 accepted[C], CCF-A.**
+ **Zinuo Li\***, Xuhang Chen\*, Chi-Man Pun and Shuqiang Wang. A Large-scale Film Style Dataset for Learning Multi-frequency Driven Film Enhancement. **IJCAI 2023 accepted[C], CCF-A.**
 
 **Zinuo Li\***, Zhen Zhang\*, Shenghong Luo, et al. An Improved Matting-SfM Algorithm for 3D Reconstruction of Self-Rotating Objects. **Mathematics[J], JCR Q1.**
 
