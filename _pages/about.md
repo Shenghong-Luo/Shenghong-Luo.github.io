@@ -24,7 +24,11 @@ Zino Li is now a computer science undergraduate student who is currently working
 
 
 ## * Published and Accepeted Papers
- **Zinuo Li\***, Xuhang Chen\*, Chi-Man Pun and Shuqiang Wang. A Large-scale Film Style Dataset for Learning Multi-frequency Driven Film Enhancement. **IJCAI 2023 accepted[C], CCF-A.**
+**Zinuo Li\***, Xiaodong Cun\*, Xuhang Chen, Chi-Man Pun. High-resolution Document Shadow Removal via A Large-scale Real-world Dataset and A Frequency-aware Shadow Erasing Net. **ICCV23 accepted[C], Core A+.**
+
+ **Zinuo Li\***, Xuhang Chen\*, Chi-Man Pun and Shuqiang Wang. A Large-scale Film Style Dataset for Learning Multi-frequency Driven Film Enhancement. **IJCAI 2023 accepted[C], Core A+.**
+
+ **Zinuo Li\***, Xuhang Chen\*, Chi-Man Pun and Shuqiang Wang. WaveEnhancer: Unifying Wavelet and Transformer for Image Enhancement. **CGI 2023 accepted[C], Core B.**
 
 **Zinuo Li\***, Zhen Zhang\*, Shenghong Luo, et al. An Improved Matting-SfM Algorithm for 3D Reconstruction of Self-Rotating Objects. **Mathematics[J], JCR Q1.**
 
@@ -32,8 +36,6 @@ Zino Li is now a computer science undergraduate student who is currently working
 
 ## * In Submission Papers
 **Zinuo Li\***,  Xuhang Chen, Shenghong Luo, Chi-Man Pun and Shuqiang Wang. SMViT: Semi-supervised Muti-scale Driven Vision Transformer for Underwater Image Enhancement. **ACMMM2023 in submission, CCF-A**
-
-**Zinuo Li\***, Xiaodong Cun\*, Xuhang Chen, Chi-Man Pun. High-resolution Document Shadow Removal via A Large-scale Real-world Dataset and A Frequency-aware Shadow Erasing Net. **ICCV23 in submission[C], CCF-A**
 
 ## * For more information
 More information about Zinuo Li please find in [CV](https://zinuoli.github.io/files/CV-Zinuo.pdf).
