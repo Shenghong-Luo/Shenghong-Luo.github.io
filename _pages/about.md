@@ -39,9 +39,13 @@ Zino Li is now a computer science undergraduate student who is currently working
 
 ## Misc
 🎓 Enduring passion for AI.
+
 🎤 Love singing.
+
 🏄 Always try to loose weight and fail.
+
 ☕️ Crazy about latte and tea.
+
 📕 Learning English all the time.
 
 ## * For more information
