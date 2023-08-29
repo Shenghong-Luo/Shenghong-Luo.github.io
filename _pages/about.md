@@ -35,7 +35,7 @@ Zino Li is now a computer science undergraduate student who is currently working
 **Zinuo Li\***, Shenghong Luo, et al. 3D Reconstruction System for Foot Arch Detecting Based on OpenMVG and OpenMVS. **PRAI2022[C].**
 
 ## * In Submission Papers
-**Zinuo Li\***,  Xuhang Chen, Shenghong Luo, Chi-Man Pun and Shuqiang Wang. SMViT: Semi-supervised Muti-scale Driven Vision Transformer for Underwater Image Enhancement. **AAAI2024 in submission, Core A+.**
+3 papers have been submitted to **AAAI2024, Core A+.**
 
 ## Misc
 🎓 Enduring passion for AI.
