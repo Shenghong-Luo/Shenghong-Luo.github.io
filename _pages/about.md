@@ -24,9 +24,9 @@ Zino Li is now a computer science undergraduate student who is currently working
 
 
 ## * Published and Accepeted Papers
-**Zinuo Li\***, Xiaodong Cun\*, Xuhang Chen, Chi-Man Pun. High-resolution Document Shadow Removal via A Large-scale Real-world Dataset and A Frequency-aware Shadow Erasing Net. **ICCV 2023[C], Core A+.**<a href="https://arxiv.org/abs/2308.14221">[Paper]</a><a href="https://github.com/CXH-Research/DocShadow-SD7K">[Code]</a>
+**Zinuo Li\***, Xiaodong Cun\*, Xuhang Chen, Chi-Man Pun. High-resolution Document Shadow Removal via A Large-scale Real-world Dataset and A Frequency-aware Shadow Erasing Net. **ICCV 2023[C], Core A*.**<a href="https://arxiv.org/abs/2308.14221">[Paper]</a><a href="https://github.com/CXH-Research/DocShadow-SD7K">[Code]</a>
 
- **Zinuo Li\***, Xuhang Chen\*, Chi-Man Pun and Shuqiang Wang. A Large-scale Film Style Dataset for Learning Multi-frequency Driven Film Enhancement. **IJCAI 2023[C], Core A+.**<a href="https://arxiv.org/abs/2301.08880">[Paper]</a><a href="https://github.com/CXH-Research/FilmNet">[Code]</a>
+ **Zinuo Li\***, Xuhang Chen\*, Chi-Man Pun and Shuqiang Wang. A Large-scale Film Style Dataset for Learning Multi-frequency Driven Film Enhancement. **IJCAI 2023[C], Core A*.**<a href="https://arxiv.org/abs/2301.08880">[Paper]</a><a href="https://github.com/CXH-Research/FilmNet">[Code]</a>
 
  **Zinuo Li\***, Xuhang Chen\*, Chi-Man Pun and Shuqiang Wang. WaveEnhancer: Unifying Wavelet and Transformer for Image Enhancement. **CGI 2023 accepted[C], Core B.**
 
@@ -35,7 +35,7 @@ Zino Li is now a computer science undergraduate student who is currently working
 **Zinuo Li\***, Shenghong Luo, et al. 3D Reconstruction System for Foot Arch Detecting Based on OpenMVG and OpenMVS. **PRAI2022[C].**
 
 ## * In Submission Papers
-3 papers have been submitted to **AAAI2024, Core A+.**
+3 papers have been submitted to **AAAI2024, Core A*.**
 
 ## Misc
 🎓 Enduring passion for AI.
