@@ -7,11 +7,11 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Zinuo Li"
+title                    : "Shenghong Luo"
 title_separator          : "-"
-name                     : &name "Zinuo Li"
+name                     : &name "Shenghong Luo"
 description              : &description ""
-url                      : https://zinuoli.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : https://ShenghongLuo.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "zinuoli/zinuoli.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
@@ -80,15 +80,15 @@ analytics:
 
 # Site Author
 author:
-  name             : "Zinuo Li"
-  avatar           : "zinuo.jpg"
+  name             : "Shenghong Luo"
+  avatar           : "ShenghongLuo.jpg"
   bio              : "Research Assistant@University of Macau"
   location         : "Guangdong, China"
   employer         :
   pubmed           : 
-  googlescholar    : "https://scholar.google.com/citations?user=MnQ0DboAAAAJ&hl"
-  email            : "1273180880lzn@gmail.com"
-  researchgate     :  # example: "https://www.researchgate.net/profile/Zinuo-Li"
+  googlescholar    : "https://scholar.google.com/citations?user=43nPUGcAAAAJ&hl=zh-CN&oi=sra"
+  email            : "ykd823332077@gmail.com"
+  researchgate     :  # example: "https://www.researchgate.net/profile/Shenghong-Luo-2"
   uri              :
   bitbucket        :
   codepen          :
@@ -96,7 +96,7 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "zinuoli"
+  github           : "ShenghongLuo"
   google_plus      :
   keybase          :
   instagram        :

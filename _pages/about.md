@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Zinuo Li"
+title: "Shenghong Luo"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
@@ -8,45 +8,41 @@ redirect_from:
   - /about.html
 ---
 ## * Introduction
-Shenghong Luo is now a computer science undergraduate student who is currently working as a research assistant at the University of Macau and the Chinese Academy of Sciences. Meanwhile, he is currently looking for Mphil and PhD opportunities in Comupter Vision/AI Generated Content/Multimodal.
+Shenghong Luo is a student in Information Technology Management at Hong Kong Baptist University and is currently a Research Assistant at University of Macau and Chinese Academy of Sciences. He is looking for a PhD opportunity in Computer Vision/AI-generated content.
 
 <b>Research Interests:</b>
 * Comupter Vision
-* Medical Image Processing
-* Comutational Photography
 * AI Generated Content
-* Multimodal
+* Super Resolution
+
 
 ## * Education
-* Huizhou University. **BEng of Computer Science.**
+* Huizhou University. **BEng of Network Engineering.**
 * University of Macau. **Research Assistant.**
 * Chinese Academy of Sciences, ShenZhen. **Research Assistant.**
 
 
 ## * Published and Accepeted Papers
-**Shenghong Luo\***, Xiaodong Cun\*, Xuhang Chen, Chi-Man Pun. High-resolution Document Shadow Removal via A Large-scale Real-world Dataset and A Frequency-aware Shadow Erasing Net. **ICCV 2023[C], Core A*.**<a href="https://arxiv.org/abs/2308.14221">[Paper]</a><a href="https://github.com/CXH-Research/DocShadow-SD7K">[Code]</a>
-
- **Zinuo Li\***, Xuhang Chen\*, Chi-Man Pun and Shuqiang Wang. A Large-scale Film Style Dataset for Learning Multi-frequency Driven Film Enhancement. **IJCAI 2023[C], Core A*.**<a href="https://arxiv.org/abs/2301.08880">[Paper]</a><a href="https://github.com/CXH-Research/FilmNet">[Code]</a>
-
- **Zinuo Li\***, Xuhang Chen\*, Chi-Man Pun and Shuqiang Wang. WaveEnhancer: Unifying Wavelet and Transformer for Image Enhancement. **CGI 2023 accepted[C], Core B.**
-
 **Zinuo Li\***, Zhen Zhang\*, Shenghong Luo, et al. An Improved Matting-SfM Algorithm for 3D Reconstruction of Self-Rotating Objects. **Mathematics[J], JCR Q1.**
 
 **Zinuo Li\***, Shenghong Luo, et al. 3D Reconstruction System for Foot Arch Detecting Based on OpenMVG and OpenMVS. **PRAI2022[C].**
 
 ## * In Submission Papers
-3 papers have been submitted to **AAAI2024, Core A*.**
+*(First author) Devignet: High-Resolution Vignetting Removal via a Dual Aggregated Fusion Transformer With Adaptive Channel Expansion *AAAI
 
+*(First author) DocDeshadower: Frequency-aware Transformer for Document Shadow Removal *MMAsia
+
+*(First author) UWFormer: Underwater Image Enhancement via a Semi-Supervised Multi-Scale Transformer *AAAI
+
+*(First author) ShaDocFormer: A Shadow-Attentive Detector With Cascaded Transformer for Document Shadow Removal *ICASSP
 ## Misc
-🎓 Enduring passion for AI.
+🎓 Possess a profound and enduring research enthusiasm for AI
 
-🎤 Love singing.
+🔥 The combination of non-procrastination and perfectionism.
 
-🏄 Always try to loose weight and fail.
+⌚️ Do not procrastinate but I am a perfectionist.
 
-☕️ Crazy about latte and tea.
-
-📕 Learning English all the time.
+❤️ Love guitar, dancing and singing.
 
 ## * For more information
-More information about Zinuo Li please find in [CV](https://zinuoli.github.io/files/CV-Zinuo.pdf).
+More information about Shenghong Luo please find in [CV](https://zinuoli.github.io/files/CV-Zinuo.pdf).
