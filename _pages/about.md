@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 ## * Introduction
-Zino Li is now a computer science undergraduate student who is currently working as a research assistant at the University of Macau and the Chinese Academy of Sciences. Meanwhile, he is currently looking for Mphil and PhD opportunities in Comupter Vision/AI Generated Content/Multimodal.
+Shenghong Luo is now a computer science undergraduate student who is currently working as a research assistant at the University of Macau and the Chinese Academy of Sciences. Meanwhile, he is currently looking for Mphil and PhD opportunities in Comupter Vision/AI Generated Content/Multimodal.
 
 <b>Research Interests:</b>
 * Comupter Vision
