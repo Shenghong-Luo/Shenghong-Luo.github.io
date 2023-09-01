@@ -22,7 +22,7 @@ Shenghongluo is pursuing a degree in Information Technology Management at Hong K
 * Chinese Academy of Sciences, ShenZhen. **Research Assistant.**
 
 
-## * Published and Accepeted Papers
+## * Published Papers
 **Zinuo Li\***, Zhen Zhang\*, Shenghong Luo, et al. An Improved Matting-SfM Algorithm for 3D Reconstruction of Self-Rotating Objects. **Mathematics[J], JCR Q1.**<a href="https://doi.org/10.3390/math10162892">[Paper]</a>
 
 **Zinuo Li\***, Shenghong Luo, et al. 3D Reconstruction System for Foot Arch Detecting Based on OpenMVG and OpenMVS. **PRAI2022[C].** <a href="https://ieeexplore.ieee.org/abstract/document/9904285">[Paper]</a>
