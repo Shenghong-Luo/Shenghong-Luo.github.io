@@ -45,4 +45,4 @@ Zinuo Li\*, **Shenghong Luo\***, et al. 3D Reconstruction System for Foot Arch D
 ❤️ Love guitar, dancing and singing.
 
 ## * For more information
-More information about Shenghong Luo please find in [CV](https://zinuoli.github.io/files/CV-Zinuo.pdf).
+More information about Shenghong Luo please find in [CV](https://ShenghongLuo.github.io/files/CV-ShenghongLuo.pdf).
