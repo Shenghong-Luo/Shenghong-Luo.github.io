@@ -14,6 +14,7 @@ Shenghongluo is pursuing a degree in Information Technology Management at Hong K
 * Comupter Vision
 * Super Resolution
 * AI Generated Content
+* 3D Reconstruction
 
 
 ## * Education
