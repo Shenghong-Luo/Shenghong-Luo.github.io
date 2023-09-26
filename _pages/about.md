@@ -12,7 +12,7 @@ Shenghongluo is pursuing a degree in Information Technology Management at Hong K
 
 <b>Research Interests:</b>
 * Comupter Vision
-* Super Resolution
+* Low-level Vision
 * AI Generated Content
 * 3D Reconstruction
 
