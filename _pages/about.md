@@ -41,8 +41,6 @@ Zinuo Li\*, **Shenghong Luo\***, et al. 3D Reconstruction System for Foot Arch D
 
 🔥 The combination of non-procrastination and perfectionism.
 
-⌚️ Do not procrastinate but I am a perfectionist.
-
 ❤️ Love guitar, dancing and singing.
 
 ## * For more information
