@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 ## * Introduction
-Shenghongluo is pursuing a degree in Information Technology Management at Hong Kong Baptist University. Additionally, he holds positions as a Research Assistant at the University of Macau and the Chinese Academy of Sciences. Currently, He is actively seeking a PhD research opportunity in the field of Computer Vision and AI-generated content.
+Shenghongluo is pursuing a degree in Information Technology Management at Hong Kong Baptist University. Additionally, he holds positions as a Research Assistant at the University of Macau and the Chinese Academy of Sciences under the supervision of <a herf='https://www.cis.um.edu.mo/~cmpun/'>Chi-Man Pun</a> and <a herf='https://scholar.google.com/citations?user=UgFI8VEAAAAJ&hl=zh-CN&oi=ao'>Shuqiang Wang</a>. Currently, He is actively seeking a PhD research opportunity in the field of Computer Vision and AI-generated content.
 
 <b>Research Interests:</b>
 * Comupter Vision
