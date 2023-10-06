@@ -31,9 +31,7 @@ Zinuo Li\*, **Shenghong Luo\***, et al. 3D Reconstruction System for Foot Arch D
 ## * Papers Under Review
 **(First author)** Devignet: High-Resolution Vignetting Removal via a Dual Aggregated Fusion Transformer With Adaptive Channel Expansion **(AAAI)** <a href="https://arxiv.org/abs/2308.13739">[Paper]</a>
 
-**(First author)** DocDeshadower: Frequency-aware Transformer for Document Shadow Removal **(MMAsia)** <a href="https://arxiv.org/abs/2307.15318">[Paper]</a>
-
-**(First author)** UWFormer: Underwater Image Enhancement via a Semi-Supervised Multi-Scale Transformer **(AAAI)**
+**(First author)** DocDeshadower: Frequency-aware Transformer for Document Shadow Removal **(CVM)** <a href="https://arxiv.org/abs/2307.15318">[Paper]</a>
 
 **(First author)** ShaDocFormer: A Shadow-Attentive Detector With Cascaded Transformer for Document Shadow Removal **(ICASSP)**
 ## Misc
