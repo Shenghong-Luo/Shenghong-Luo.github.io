@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 ## * Introduction
-Shenghongluo is pursuing a degree in Information Technology Management at Hong Kong Baptist University. Additionally, he holds positions as a Research Assistant at the University of Macau and the Chinese Academy of Sciences under the supervision of <a href="https://www.cis.um.edu.mo/~cmpun/">Chi-Man Pun</a> and <a href="https://people.ucas.edu.cn/~wangshuqiang?language=en">Shuqiang Wang</a>. He has established a close collaboration with <a href="https://cxh.netlify.app/">Dr. Xuhang Chen</a>. Currently, He is actively seeking a PhD research opportunity in the field of Computer Vision or AI-generated content.
+Shenghong Luo is pursuing a degree in Information Technology Management at Hong Kong Baptist University. Additionally, he holds positions as a Research Assistant at the University of Macau and the Chinese Academy of Sciences under the supervision of <a href="https://www.cis.um.edu.mo/~cmpun/">Chi-Man Pun</a> and <a href="https://people.ucas.edu.cn/~wangshuqiang?language=en">Shuqiang Wang</a>. He has established a close collaboration with <a href="https://cxh.netlify.app/">Dr. Xuhang Chen</a>. Currently, He is actively seeking a PhD research opportunity in the field of Computer Vision or AI-generated content.
 
 <b>Research Interests:</b>
 * Comupter Vision
@@ -31,11 +31,15 @@ Zinuo Li\*, **Shenghong Luo\***, et al. 3D Reconstruction System for Foot Arch D
 ## * Papers Under Review
 **(First author)** Devignet: High-Resolution Vignetting Removal via a Dual Aggregated Fusion Transformer With Adaptive Channel Expansion **(AAAI)** <a href="https://arxiv.org/abs/2308.13739">[Paper]</a>
 
+<<<<<<< HEAD
 **(First author)** DocDeshadower: Frequency-aware Transformer for Document Shadow Removal **(MMAsia)** <a href="https://arxiv.org/abs/2307.15318">[Paper]</a>
 
-**(First author)** UWFormer: Underwater Image Enhancement via a Semi-Supervised Multi-Scale Transformer **(AAAI)**
+**(First author)** ShaDocFormer: A Shadow-Attentive Detector With Cascaded Transformer for Document Shadow Removal **(ICASSP)**  <a href="https://arxiv.org/abs/2309.06670">[Paper]</a>
+=======
+**(First author)** DocDeshadower: Frequency-aware Transformer for Document Shadow Removal **(CVM)** <a href="https://arxiv.org/abs/2307.15318">[Paper]</a>
+>>>>>>> 9d89f96acdd07175761b8132e0d17c66a70a895c
 
-**(First author)** ShaDocFormer: A Shadow-Attentive Detector With Cascaded Transformer for Document Shadow Removal **(ICASSP)**
+UWFormer: Underwater Image Enhancement via a Semi-Supervised Multi-Scale Transformer **(CVM)**  <a href="https://paperswithcode.com/paper/uwformer-underwater-image-enhancement-via-a">[Paper]</a>   
 ## Misc
 🎓 Possess a profound and enduring research enthusiasm for AI
 
