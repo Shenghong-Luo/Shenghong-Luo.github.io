@@ -18,6 +18,7 @@ Shenghong Luo is pursuing a degree in Information Technology Management at Hong 
 
 
 ## * Education
+* Hong Kong Baptist University. **Information Technology Management**
 * Huizhou University. **BEng of Network Engineering.**
 * University of Macau. **Research Assistant.**
 * Chinese Academy of Sciences, ShenZhen. **Research Assistant.**
