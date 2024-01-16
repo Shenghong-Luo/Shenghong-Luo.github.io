@@ -32,10 +32,9 @@ Zinuo Li\*, Zhen Zhang\*, **Shenghong Luo**, et al. An Improved Matting-SfM Algo
 Zinuo Li\*, **Shenghong Luo\***, et al. 3D Reconstruction System for Foot Arch Detecting Based on OpenMVG and OpenMVS. **PRAI2022[C].** <a href="https://ieeexplore.ieee.org/abstract/document/9904285">[Paper]</a>
 
 ## * Papers Under Review
-
-**(First author)** ShaDocFormer: A Shadow-Attentive Detector With Cascaded Transformer for Document Shadow Removal **(IJCNN)**  <a href="https://arxiv.org/abs/2309.06670">[Paper]</a>
-
 **(First author)** DocDeshadower: Frequency-aware Transformer for Document Shadow Removal **(IJCNN)** <a href="https://arxiv.org/abs/2307.15318">[Paper]</a>
+
+ShaDocFormer: A Shadow-Attentive Detector With Cascaded Transformer for Document Shadow Removal **(IJCNN)**  <a href="https://arxiv.org/abs/2309.06670">[Paper]</a>
 
 UWFormer: Underwater Image Enhancement via a Semi-Supervised Multi-Scale Transformer **(IJCNN)**  <a href="https://paperswithcode.com/paper/uwformer-underwater-image-enhancement-via-a">[Paper]</a>   
 ## Misc
