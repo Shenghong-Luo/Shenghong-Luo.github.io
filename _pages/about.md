@@ -7,15 +7,6 @@ redirect_from:
   - /about/
   - /about.html
 ---
-## * Introduction
-Shenghong Luo is pursuing a degree in Information Technology Management at Hong Kong Baptist University. Additionally, he holds positions as a Research Assistant at the University of Macau and the Chinese Academy of Sciences under the supervision of <a href="https://www.cis.um.edu.mo/~cmpun/">Chi-Man Pun</a> and <a href="https://people.ucas.edu.cn/~wangshuqiang?language=en">Shuqiang Wang</a>. He has established a close collaboration with <a href="https://cxh.netlify.app/">Dr. Xuhang Chen</a>. Currently, He is actively seeking a PhD research opportunity in the field of Computer Vision or AI-generated content.
-
-<b>Research Interests:</b>
-* Comupter Vision
-* Low-level Vision
-* AI Generated Content
-* 3D Reconstruction
-
 
 ## * Education
 * Hong Kong Baptist University. **Information Technology Management**
@@ -24,6 +15,14 @@ Shenghong Luo is pursuing a degree in Information Technology Management at Hong 
 * Chinese Academy of Sciences, ShenZhen. **Research Assistant.**
 
 
+## * Introduction
+Shenghong Luo is pursuing a degree in Information Technology Management at Hong Kong Baptist University. Additionally, he holds positions as a Research Assistant at the University of Macau and the Chinese Academy of Sciences under the supervision of <a href="https://www.cis.um.edu.mo/~cmpun/">Chi-Man Pun</a> and <a href="https://people.ucas.edu.cn/~wangshuqiang?language=en">Shuqiang Wang</a>. He has established a close collaboration with <a href="https://cxh.netlify.app/">Dr. Xuhang Chen</a>. Currently, He is actively seeking a PhD research opportunity in the field of Computer Vision or AI-generated content.
+
+<b>Research Interests:</b>
+* Comupter Vision
+* Low-level Vision
+* AI Generated Content
+* 3D Reconstruction
 
 
 
