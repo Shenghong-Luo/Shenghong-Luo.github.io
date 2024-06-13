@@ -22,6 +22,7 @@ Shenghong Luo is pursuing a degree in Information Technology Management at Hong 
 * Huizhou University. **BEng of Network Engineering.**
 * University of Macau. **Research Assistant.**
 * Chinese Academy of Sciences, ShenZhen. **Research Assistant.**
+
 ## * Published Papers
 
 **(First author)** Devignet: High-Resolution Vignetting Removal via a Dual Aggregated Fusion Transformer With Adaptive Channel Expansion **(AAAI)** <a href="https://arxiv.org/abs/2308.13739">[Paper]</a>
