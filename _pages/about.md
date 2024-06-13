@@ -8,11 +8,6 @@ redirect_from:
   - /about.html
 ---
 
-## * Education
-* Hong Kong Baptist University. **Information Technology Management**
-* Huizhou University. **BEng of Network Engineering.**
-* University of Macau. **Research Assistant.**
-* Chinese Academy of Sciences, ShenZhen. **Research Assistant.**
 
 
 ## * Introduction
@@ -24,6 +19,11 @@ Shenghong Luo is pursuing a degree in Information Technology Management at Hong 
 * AI Generated Content
 * 3D Reconstruction
 
+## * Education
+* Hong Kong Baptist University. **Information Technology Management**
+* Huizhou University. **BEng of Network Engineering.**
+* University of Macau. **Research Assistant.**
+* Chinese Academy of Sciences, ShenZhen. **Research Assistant.**
 
 
 ## * Published Papers
