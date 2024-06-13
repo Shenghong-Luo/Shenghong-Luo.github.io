@@ -34,7 +34,7 @@ An Improved Matting-SfM Algorithm for 3D Reconstruction of Self-Rotating Objects
 
 3D Reconstruction System for Foot Arch Detecting Based on OpenMVG and OpenMVS. **(PRAI)** <a href="https://ieeexplore.ieee.org/abstract/document/9904285">[Paper]</a>
 
-Multi-scale quaternion CNN and BiGRU with cross self-attention feature fusion for fault diagnosis of bearing. **(MST)**. <a href="https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=43nPUGcAAAAJ&citation_for_view=43nPUGcAAAAJ:IjCSPb-OGe4C">[paper]</a>
+Multi-scale quaternion CNN and BiGRU with cross self-attention feature fusion for fault diagnosis of bearing. **(MST)**. <a href="https://iopscience.iop.org/article/10.1088/1361-6501/ad4c8e/meta">[paper]</a>
 
 ## * Papers Accepted
 
