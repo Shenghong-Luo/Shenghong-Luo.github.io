@@ -43,9 +43,11 @@ ShaDocFormer: A Shadow-Attentive Detector With Cascaded Transformer for Document
 UWFormer: Underwater Image Enhancement via a Semi-Supervised Multi-Scale Transformer **(IJCNN)**  <a href="https://paperswithcode.com/paper/uwformer-underwater-image-enhancement-via-a">[Paper]</a>   
 
 ## * Papers Under Reivew
+One paper for ACMMM 2024
+
 Four papers for SMC 2024 
 
-One paper under review for ACMMM 2024
+
 
 
 
