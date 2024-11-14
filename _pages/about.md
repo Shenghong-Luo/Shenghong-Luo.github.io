@@ -30,22 +30,28 @@ Shenghong Luo is pursuing a degree in Information Technology Management at Hong 
 
 **(First author)** Devignet: High-Resolution Vignetting Removal via a Dual Aggregated Fusion Transformer With Adaptive Channel Expansion **(AAAI)** <a href="https://arxiv.org/abs/2308.13739">[Paper]</a>
 
+Dual-Hybrid Attention Network for Specular Highlight Removal **(ACM MM)** <a href="https://arxiv.org/abs/2407.12255?context=cs.CV">[Paper]</a>
+
 An Improved Matting-SfM Algorithm for 3D Reconstruction of Self-Rotating Objects. **(Mathematics).**<a href="https://doi.org/10.3390/math10162892">[Paper]</a>
 
 3D Reconstruction System for Foot Arch Detecting Based on OpenMVG and OpenMVS. **(PRAI)** <a href="https://ieeexplore.ieee.org/abstract/document/9904285">[Paper]</a>
 
 Multi-scale quaternion CNN and BiGRU with cross self-attention feature fusion for fault diagnosis of bearing. **(MST)**. <a href="https://iopscience.iop.org/article/10.1088/1361-6501/ad4c8e/meta">[paper]</a>
 
-## * Papers Accepted
-
 ShaDocFormer: A Shadow-Attentive Detector With Cascaded Transformer for Document Shadow Removal **(IJCNN)**  <a href="https://arxiv.org/abs/2309.06670">[Paper]</a>
 
 UWFormer: Underwater Image Enhancement via a Semi-Supervised Multi-Scale Transformer **(IJCNN)**  <a href="https://paperswithcode.com/paper/uwformer-underwater-image-enhancement-via-a">[Paper]</a>   
 
-## * Papers Under Reivew
-One paper for ACMMM 2024
-
 Four papers for SMC 2024 
+
+[//]: # (## * Papers Accepted)
+
+[//]: # ()
+[//]: # ()
+[//]: # (## * Papers Under Reivew)
+
+[//]: # ()
+
 
 
 
